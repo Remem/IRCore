@@ -1,6 +1,6 @@
 Update-Checker
 ===============
 
-For Update Checker of EfeGear.
+For Update Checker of IRCore.
 
 %IRCore%1.8%IRCore%
