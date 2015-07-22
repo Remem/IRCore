@@ -1,1 +1,6 @@
-<php>echo $_SERVER["REMOTE_ADDR"];</php>
+<?
+  $ip = $_SERVER['REMOTE_ADDR'];
+?>
+<script>
+  alert($ip);
+</script>
