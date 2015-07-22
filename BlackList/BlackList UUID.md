@@ -1,1 +1,1 @@
-ban_date | nickname | reason | by_
+ban_date | uuid | reason | by_
