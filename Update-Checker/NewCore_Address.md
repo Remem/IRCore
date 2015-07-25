@@ -1,1 +1,1 @@
-http://addons-origin.cursecdn.com/files/891/101/IRCore.jar
+http://addons-origin.cursecdn.com/files/891/207/IRCore.jar
