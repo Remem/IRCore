@@ -1,1 +1,1 @@
-ban_date | ip_address | reason | by_
+ban_date | nickname | reason | by_
